@@ -15,4 +15,4 @@ cv2.imshow('blur',blur)
 
 
 cv2.waitKey(0)
-cv2.destroyAllWindows()git config --global --unset user.email
+cv2.destroyAllWindows()
